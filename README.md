@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=92A6BF&height=100&section=header&text=SSeungBBong&fontSize=40&fontColor=ffffff" width="100%"/>
+</p>
+
+
+
+
 <h2 align="left">👋 Hello, I'm Seung Young Oh (SSeungBBong)</h2>
 <p align="left">🎓 Woosong University | 🖥️3rd-year Computer Information Security Student | 📚 Passionate about coding & problem-solving</p>
 
@@ -37,6 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=92A6BF&height=100&section=footer" width="100%"/>
 </p>
-
